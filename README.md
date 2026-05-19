@@ -1,5 +1,5 @@
-# Singulabo Projects Data
+# Static Index Cache
 
-This public repository contains only `projects.json`, a generated public data file for the project showcase frontend.
+This repository stores a machine-generated JSON index for a static web page.
 
-The source synchronization logic and private operational files are intentionally kept outside this repository.
+The data is updated automatically by a scheduled process.
